@@ -1,0 +1,2 @@
+2025-12-08 21:35:05,760 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-12-08 21:39:55,303 [Worker-0: https://download.eclipse.org/eclipse/updates/4.29/compositeContent.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->[https://download.eclipse.org:443]
